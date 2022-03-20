@@ -6,7 +6,7 @@ Copy the WebGLTemplates directory from the downloaded zip into your Unity game's
 Now, select the template in Player Settings > WebGL > Resolution and Presentation:
 
 GameBridge Template in Player Settings
-![unity template](https://img.cdn.apipost.cn/client/user/951557/avatar/134ef48701b31219d9afe7c13cd6c3eb62369be00ec85.png)
+![unity template](https://sdk.poki.com/img/unity-poki-template.png)
 
 index.html
 
